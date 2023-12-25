@@ -22,5 +22,6 @@ Documents for [Snap Hutao project](https://github.com/DGP-Studio/Snap.Hutao). Yo
 
 - 下载 [NodeJS 18](https://nodejs.org/en/download/)
 - 下载仓库文件
-`pnpm run docs:dev`dev调试
-`pnpm docs:build`编译 文件在dist 可以放在虚拟主机/宝塔/nginx之类的服务器上面
+- 在根目录运行 `pnpm install`
+- `pnpm run docs:dev`dev调试
+- `pnpm docs:build`编译 文件在dist 可以放在虚拟主机/宝塔/nginx之类的服务器上面
