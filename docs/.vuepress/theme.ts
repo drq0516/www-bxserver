@@ -22,7 +22,7 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   //github修改地址
-  docsRepo: "HongchengQ/Snap.Hutao.Docs",
+  docsRepo: "BanxiaServer/www-bxserver",
 
   docsDir: "docs",
 
