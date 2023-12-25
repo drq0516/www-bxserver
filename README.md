@@ -17,4 +17,10 @@ Documents for [Snap Hutao project](https://github.com/DGP-Studio/Snap.Hutao). Yo
 - Run `pnpm run docs:dev` in the root directory of the project
   - The document will run at `http://localhost:8080` by default
 
-  pnpm docs:build编译
+
+### 简体中文使用教程
+
+- 下载 [NodeJS 18](https://nodejs.org/en/download/)
+- 下载仓库文件
+`pnpm run docs:dev`dev调试
+`pnpm docs:build`编译 文件在dist 可以放在虚拟主机/宝塔/nginx之类的服务器上面
