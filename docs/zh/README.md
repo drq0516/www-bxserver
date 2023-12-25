@@ -5,7 +5,7 @@ title: 首页
 heroImage: https://img.alicdn.com/imgextra/i4/1797064093/O1CN01oaGvKE1g6dut0pICS_!!1797064093.png_.webp
 heroAlt: 半夏公益服
 heroText: 半夏公益服
-tagline: 体验你期待的玩法，探索你尚未尝试过的新内容
+tagline: 半夏时光如翠梦，绿影婉转细柔舞。岁月静好，心在夏日的温暖中悠然绽放。
 bgImage: /images/202308/head-back.png
 bgImageDark: /images/202308/head-back.png
 actions:
